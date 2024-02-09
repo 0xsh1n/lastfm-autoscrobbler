@@ -1,11 +1,51 @@
 {
-    "API_KEY": "",
-    "API_SECRET": "",
-    "LASTFM_USERNAME":"",
-    "LASTFM_PASSWORD": "",
-    "ARTIST": "",
-    "TRACK": "",
-    "ALBUM": "",
-    "LIMIT": 5,
-    "INTERVAL": 5
+    "API_KEY": "your_api_key_here",
+    "API_SECRET": "your_api_secret_here",
+    "LASTFM_USERNAME": "your_lastfm_username_here",
+    "LASTFM_PASSWORD": "your_lastfm_password_here",
+    "SCROB1": {
+        "ARTIST": "artist",
+        "TRACK": "track",
+        "ALBUM": "album"
+    },
+    "SCROB2": {
+        "ARTIST": "artist",
+        "TRACK": "track",
+        "ALBUM": "album"
+    },
+    "SCROB3": {
+        "ARTIST": "artist",
+        "TRACK": "track",
+        "ALBUM": "album"
+    },
+    "SCROB4": {
+        "ARTIST": "artist",
+        "TRACK": "track",
+        "ALBUM": "album"
+    },
+    "SCROB5": {
+        "ARTIST": "artist",
+        "TRACK": "track",
+        "ALBUM": "album"
+    },
+    "SCROB6": {
+        "ARTIST": "artist",
+        "TRACK": "track",
+        "ALBUM": "album"
+    },
+    "SCROB7": {
+        "ARTIST": "artist",
+        "TRACK": "track",
+        "ALBUM": "album"
+    },
+    "SCROB8": {
+        "ARTIST": "artist",
+        "TRACK": "track",
+        "ALBUM": "album"
+    },
+    "SCROB9": {
+        "ARTIST": "artist",
+        "TRACK": "track",
+        "ALBUM": "album"
+    }
 }
